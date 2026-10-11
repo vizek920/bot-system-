@@ -1,0 +1,5 @@
+# أسرار وبيانات لا ترتفع على GitHub أبداً
+.env
+data/
+node_modules/
+*.log
